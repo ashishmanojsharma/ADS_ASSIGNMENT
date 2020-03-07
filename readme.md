@@ -41,4 +41,4 @@ class name in the Main Class field. Alternatively, you can manually type the
 class name in the manifest Main-Class element.
 
 Sample Output: 
-<img src="https://imgur.com/uqy8rvy" height="700" width="500" />
+<img src="https://i.ibb.co/xXJkv83/snip7.jpg" height="700" width="500" />
